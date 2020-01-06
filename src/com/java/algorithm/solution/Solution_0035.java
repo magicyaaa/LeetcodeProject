@@ -6,7 +6,7 @@ package com.java.algorithm.solution;
  * @author: Ya
  * @create: 2020-01-06 11:55
  **/
-public class Solution_35 {
+public class Solution_0035 {
     /**
      * 二分法查找
      */
